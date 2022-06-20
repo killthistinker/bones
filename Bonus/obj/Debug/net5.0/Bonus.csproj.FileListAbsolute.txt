@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\Bonus.exe
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\Bonus.deps.json
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\Bonus.runtimeconfig.json
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\Bonus.runtimeconfig.dev.json
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\Bonus.dll
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\ref\Bonus.dll
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\bin\Debug\net5.0\Bonus.pdb
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.dll
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\ref\Bonus.dll
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.pdb
+C:\Users\user\Desktop\csharp\exam2\ConsoleApp1\Bonus\obj\Debug\net5.0\Bonus.genruntimeconfig.cache
